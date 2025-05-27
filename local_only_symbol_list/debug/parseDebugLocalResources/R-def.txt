@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Done
+id False
+id Feedback
+id Instruction1
+id Instruction2
+id Next1
+id Next2
+id Questions
+id Restart
+id Results
+id Title1
+id Title2
+id Title3
+id True
+id main
+layout activity_main
+layout activity_questions
+layout activity_quiz
+layout activity_scoreboard
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.IMAD5112_A2
+style Theme.IMAD5112_A2
+xml backup_rules
+xml data_extraction_rules
